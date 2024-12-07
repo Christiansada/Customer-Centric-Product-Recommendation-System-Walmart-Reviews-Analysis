@@ -66,11 +66,3 @@ The dataset is stored in `marketing_sample_for_walmart_com.tsv`, with attributes
 3. Open the Jupyter Notebook:
   ```bash
   jupyter notebook Recommendation.ipynb
-
-
-
-
-
-
-
-
